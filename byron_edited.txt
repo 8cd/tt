@@ -998,6 +998,7 @@
    998	   Grasped in the holy hand of Mystery,
    999	   In whose dread name both men and maids are sworn,
   1000	And consecrate the oath with draught and dance till morn.
+
   2001	   Amidst no common pomp the despot sate,
   2002	   While busy preparation shook the court;
   2003	   Slaves, eunuchs, soldiers, guests, and santons wait;
@@ -5275,7 +5276,6 @@
   6275	
   6276	Footnotes:
   6277	{1}  Lady Charlotte Harley, daughter of the Earl of Oxford.
-
      5	List of Contents
      6	
      7	   To Ianthe
